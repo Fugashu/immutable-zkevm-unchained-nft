@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Unchained Guild Member Token",
+    "description": "We are Unchained.",
+    "image": "https://www.unchainedguild.xyz/unchained_logo.webp",
+    "external_link": "https://www.unchainedguild.xyz"
 }
